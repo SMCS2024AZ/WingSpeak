@@ -1,5 +1,5 @@
 # WingSpeak
-A webapp that helps people with difficulties vocalizing with communication, providing a visual interface that allows them to intuitively communicate their needs.  The website can be found at bit.ly/wingspeak.
+A webapp that helps people with difficulties vocalizing with communication, providing a visual interface that allows them to intuitively communicate their needs.  The website can be found at **[WingSpeak](bit.ly/wingspeak)**.
 
 ## Flowchart:
 ![Flowchart](https://user-images.githubusercontent.com/102745665/210868387-0b1ef585-95ee-41af-822f-ea102545c6fa.png)
